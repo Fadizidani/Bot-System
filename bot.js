@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
-const devs = ['518061985913503745'];
+const devs = ['518061985913503744'];
 const db = require('quick.db');
-const premium = ['518061985913503745']
+const premium = ['518061985913503744']
 const client = new Discord.Client();   
 const bot = new Discord.Client();   
 const giphy = require('giphy-api')();    
